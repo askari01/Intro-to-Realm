@@ -1,0 +1,6 @@
+framework module Pods_Intro_to_Realm {
+  umbrella header "Pods-Intro to Realm-umbrella.h"
+
+  export *
+  module * { export * }
+}
